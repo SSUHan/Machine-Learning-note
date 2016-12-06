@@ -1,0 +1,6 @@
+venvML/
+
+*.pyc
+
+
+.ipynb_checkpoints/
